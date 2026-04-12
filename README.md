@@ -30,6 +30,9 @@ dashboard that surfaces drug safety insights the way a safety analyst would.
 - Cleaned the full dataset down to 500,000 analysis-ready records
 
 **In Power BI:**
+## 📊 Dashboard Preview
+![FAERS Dashboard](Dashboard/FAERS_Dashboard.png)
+
 - Built a 6-panel interactive dashboard with slicers for outcome,
   gender, and age group
 - Surfaces serious ADR rate, top drugs, top reaction terms,
