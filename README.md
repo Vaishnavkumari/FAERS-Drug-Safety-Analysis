@@ -31,7 +31,7 @@ dashboard that surfaces drug safety insights the way a safety analyst would.
 
 **In Power BI:**
 ## 📊 Dashboard Preview
-![FAERS Dashboard](Dashboard/FAERS_ADR_Analysis_VaishnaviKumari%20(1)_page-0001.jpg)
+![FAERS Dashboard](Dashboard/FAERS_ADR_Analysis_VaishnaviKumari (2).pdf)
 
 - Built a 6-panel interactive dashboard with slicers for outcome,
   gender, and age group
